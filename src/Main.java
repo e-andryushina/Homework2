@@ -69,7 +69,7 @@ public class Main {
         System.out.println("Всего работников в компании - " + totalEmployeeAmount + " человек");
         totalEmployeeAmount += 94;
         totalWorkingTime = oneEmployeeWorkingTime * totalEmployeeAmount;
-        System.out.println("Если в компании работает " + totalEmployeeAmount + " человек, то всего " + totalWorkingTime + " часов работы может быть поделено между сотрудниками.");
+        System.out.println("Если в компании работает " + totalEmployeeAmount + " человек, то всего " + totalWorkingTime + " часов работы может быть поделено между сотрудниками. ");
 
     }
 }
